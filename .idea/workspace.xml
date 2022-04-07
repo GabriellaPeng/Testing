@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="643f3040-8809-482e-bf37-177fd2b73192" name="Default Changelist" comment="updated python data analysis">
+      <change afterPath="$PROJECT_DIR$/code_da/analysis_data/basic_proc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/analysis_data/data_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/analysis_data/histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/analysis_data/lineplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/analysis_data/other_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/Activity2_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/algs_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/database_basis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/ex_basic_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/ex_basic_proc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/ex_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/ex_normal_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/exerc_assign2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/run_alg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/examples/visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/get_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/get_data/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/get_data/load_df.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/model_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/model_data/func_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/prep_data/connect_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/prep_data/prepoc_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/test_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/test_data/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/test_data/test_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/test_data/test_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/test_data/test_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_da/test_data/test_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/getweather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/titanic-training-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/abnorm_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/getweather.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_da/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pandas_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_da/examples/ex_online_course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_da/test_data/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/py_da.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_da/analysis_data/barplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path.py" beforeDir="false" afterPath="$PROJECT_DIR$/path.py" afterDir="false" />
+    </list>
+    <list id="1a39e92e-d0f1-4b88-8004-29cef93c468e" name="updated python data analysis" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fyiyQbDqb3l9x3y5dryziO4HbU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code_da/get_data" />
+      <recent name="$PROJECT_DIR$/code_da/examples" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/code_da/model_data" />
+      <recent name="$PROJECT_DIR$/code_da/examples/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="Activity2_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_da/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_da/examples/Activity2_assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_da/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_da/examples/ex_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exerc_assign2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_da/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_da/examples/exerc_assign2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_da/test_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_da/test_data/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_da/test_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_da/test_data/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.exerc_assign2" />
+        <item itemvalue="Python.Activity2_assignment" />
+        <item itemvalue="Python.ex_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643f3040-8809-482e-bf37-177fd2b73192" name="Default Changelist" comment="" />
+      <changelist id="1a39e92e-d0f1-4b88-8004-29cef93c468e" name="updated python data analysis" comment="" />
+      <created>1597196986714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597196986714</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updated python data analysis">
+      <created>1599747199203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599747199203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated python data analysis">
+      <created>1599747713434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599747713434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated python data analysis">
+      <created>1599749222159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599749222159</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated python data analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated python data analysis" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1356" height="397" key="GridCell.Tab.0.bottom" timestamp="1649341552991">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1649341552991" />
+    <state width="1356" height="397" key="GridCell.Tab.0.center" timestamp="1649341552991">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1649341552991" />
+    <state width="1356" height="397" key="GridCell.Tab.0.left" timestamp="1649341552990">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1649341552990" />
+    <state width="1356" height="397" key="GridCell.Tab.0.right" timestamp="1649341552991">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1649341552991" />
+    <state width="1356" height="397" key="GridCell.Tab.1.bottom" timestamp="1649341554980">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1649341554980" />
+    <state width="1356" height="397" key="GridCell.Tab.1.center" timestamp="1649341554979">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1649341554979" />
+    <state width="1356" height="397" key="GridCell.Tab.1.left" timestamp="1649341554979">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1649341554979" />
+    <state width="1356" height="397" key="GridCell.Tab.1.right" timestamp="1649341554979">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1356" height="397" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1649341554979" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test1.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/getweather.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/examples/ex_normal_dist.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/get_data/load_data.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_create.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_create.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_delete.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_delete.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_read.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_create.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/get_data/load_data.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/analysis_data/data_operations.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/analysis_data/data_operations.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/prep_data/prepoc_data.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test_read.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/examples/run_alg1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/examples/ex_model.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/examples/ex_model.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/examples/Activity2_assignment.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/examples/Activity2_assignment.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_da/test_data/test1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="site_link" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
